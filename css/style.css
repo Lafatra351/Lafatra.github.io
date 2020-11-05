@@ -991,7 +991,7 @@ ul.year li:nth-child(5) {
 
 .portfolio-grid-pic-caption {
   position: absolute;
-  background: rgba(70, 194, 122, 0.82);
+  background: rgba(30, 30, 30, 0.82);
   top: 0px;
   bottom: 0;
   text-align: center;
